@@ -11,6 +11,7 @@ tags: phase-1 python
 - [ ] Make sure your computer is [all set up and ready to go](https://github.com/momentumlearn/student-resources/blob/master/articles/setup.md).
 
 ## 🎥 This Week's Videos
+#### _Each video has a 'Take the Quiz' button, which you should use to take the Quiz when you have finished._
 - [Welcome and Command Line](https://www.loom.com/share/9849b2a139904e58ae4b157cfd9cb6b9?sharedAppSource=personal_library)
 -  [Intro to Programming With Python](https://www.loom.com/share/318d85feb0ba437dbc7313bf65634bb2?sharedAppSource=personal_library)
 - [Getting Started with Python and VS Code](https://www.loom.com/share/630a314fbcd8484d9c8b01c2150f8c50?sharedAppSource=personal_library)
