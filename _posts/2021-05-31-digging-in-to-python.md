@@ -19,7 +19,7 @@ tags: phase-1 python
 
 3. [Datacamp Python Functions](https://www.datacamp.com/community/tutorials/functions-python-tutorial)
 
-4. [Python Lyrics](https://classroom.github.com/a/lRLFuORx)
+4. [Python Lyrics](https://classroom.github.com/a/gBIUQE9t)
 - Note: this is your first assignment from GitHub. When you accept this assignment by clicking the link, a "repository" will be generated on GitHub with your name on the end of it. We will learn more later about working on a team with GitHub. Below is what you need to know right now. For more on GitHub, check out this [talk by Sarah Guthals](https://channel9.msdn.com/Events/Start-Dev-Change/Start-Dev-Change/Introduction-to-GitHub). 
 
 - To work on the code in VS Code:
