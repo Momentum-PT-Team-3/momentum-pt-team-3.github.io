@@ -3,6 +3,9 @@ title: Important Links
 permalink: /links/
 layout: default
 ---
+## Career Services
+- [Links to Modules](https://docs.google.com/document/d/11GLQox2UwiLJwgLAYysLUSrkX5zPVxXt47IpRRqD7eY/edit?usp=sharing)
+
 
 ## Student Guidelines
 
@@ -13,14 +16,14 @@ layout: default
 
 ## Zoom
 
-- [Zoom classroom for PT Team One Class & Co-working](https://us02web.zoom.us/j/86807252959?pwd=cDNPSVBac1E3c05PVzRZa3RYNGtPQT09)
+- [Zoom classroom for PT Team Two Class & Co-working](https://us02web.zoom.us/j/86807252959?pwd=cDNPSVBac1E3c05PVzRZa3RYNGtPQT09)
 
 
 ## GitHub
 
-- [Class GitHub organization](https://github.com/momentum-pt-team-1/) -- all your assignment repos are located here
-  - [code examples from class](https://github.com/momentum-pt-team-1/examples)
-  - [notes/slides from class](https://github.com/momentum-pt-team-1/notes)
+- [Class GitHub organization](https://github.com/momentum-pt-team-2/) -- all your assignment repos are located here
+  - [code examples from class](https://github.com/momentum-pt-team-2/examples)
+  - [notes/slides from class](https://github.com/momentum-pt-team-2/notes)
 
 ## General References
 
