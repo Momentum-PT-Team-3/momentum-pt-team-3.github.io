@@ -49,6 +49,8 @@ This is like "saving" your code to the remote repository. You can do this multip
 
 * [Python Gitbook](https://erlerobotics.gitbooks.io/erle-robotics-learning-python-gitbook-free/content/first_steps/README.html)
 
+* [Julia Evans How To Be A Wizard Zine](https://jvns.ca/wizard-zine.pdf)
+
 #### Python Practice Sites
 
 * [py.CheckiO Games](https://py.checkio.org/)
