@@ -13,6 +13,8 @@ tags: phase-1 python
 
 ### 🎯  This Week's Projects
 
+UPDATE: Before you take on 4, try this [PyPet activity](https://www.thinkful.com/learn/intro-to-python-tutorial/#Creating-Your-Pypet)
+
 1. [Python Exercises 1-18](https://holypython.com/beginner-python-exercises/)
 
 2. [Python Exercises 1-10 (11-20 optional)](https://holypython.com/intermediate-python-exercises/)
@@ -43,11 +45,22 @@ This is like "saving" your code to the remote repository. You can do this multip
 
 ### 🔖 Resources
 
+* [Microsoft Python Videos](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
+
 * [Python Gitbook](https://erlerobotics.gitbooks.io/erle-robotics-learning-python-gitbook-free/content/first_steps/README.html)
+
+#### Python Practice Sites
+
+* [py.CheckiO Games](https://py.checkio.org/)
+
+* [Codingbat](https://codingbat.com/python)
+
+* [Code Wars](https://www.codewars.com/?language=python)
+
 
 ### 📝 This Week's Notes
 
-- [Welcome and Command Line](https://github.com/momentum-pt-team-2/notes/blob/main/python_types_operators.md)
+- [Python Types and Operators](https://github.com/momentum-pt-team-2/notes/blob/main/python_types_operators.md)
 - [Control Flow](hhttps://github.com/momentum-pt-team-2/notes/blob/main/control_flow.md)
 
 ### 👾 This Week's Code Examples
