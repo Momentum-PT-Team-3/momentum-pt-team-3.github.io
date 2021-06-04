@@ -25,6 +25,7 @@ UPDATE: Before you take on 4, try this [PyPet activity](https://www.thinkful.com
 - Note: this is your first assignment from GitHub. When you accept this assignment by clicking the link, a "repository" will be generated on GitHub with your name on the end of it. We will learn more later about working on a team with GitHub. Below is what you need to know right now. For more on GitHub, check out this [talk by Sarah Guthals](https://channel9.msdn.com/Events/Start-Dev-Change/Start-Dev-Change/Introduction-to-GitHub). 
 
 - To work on the code in VS Code:
+
 0. Copy the URL to your repository.
 
 1. Make sure you are in your homework directory.
