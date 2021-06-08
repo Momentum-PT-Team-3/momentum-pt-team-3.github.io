@@ -10,7 +10,7 @@ tags: phase-1 python
 
 ## 🎥 This Week's Videos
 #### _Each video has a 'Take the Quiz' button, which you should use to take the Quiz when you have finished._
-- [Working With Files 1 & 2](https://www.loom.com/share/26ba4caf3a624915a237191a528153f2?sharedAppSource=personal_library) [and](https://www.loom.com/share/d20058171e6f4ece82e3383621b203f1?sharedAppSource=personal_library)
+- [Working With Files 1](https://www.loom.com/share/26ba4caf3a624915a237191a528153f2?sharedAppSource=personal_library) [Working With Files 2](https://www.loom.com/share/d20058171e6f4ece82e3383621b203f1?sharedAppSource=personal_library)
 -  [Game Example - Conditionals - up to 12:11](https://www.loom.com/share/72bd58ad7a264b78bcd5a3ab94659735?sharedAppSource=personal_library)
 - [Game Example - Loops - 12:11 to end](https://www.loom.com/share/72bd58ad7a264b78bcd5a3ab94659735?sharedAppSource=personal_library)
 
