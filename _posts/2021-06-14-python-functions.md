@@ -9,7 +9,13 @@ tags: phase-1 python
 
 ## 🎥 This Week's Videos
 #### _Each video has a 'Take the Quiz' button, which you should use to take the Quiz when you have finished._
-Available by EOD Monday
+1. [5 Steps to Getting Unstuck from Start.Dev.Change conference](https://youtu.be/6UtrLpd79Aw?t=25494)
+The whole conference was great, so have a look at some other talks when you can.
+[Take Quiz](https://forms.gle/cxLnAqW2W9XUgaik8)
+
+2. [Built-in Modules: Datetime](https://www.loom.com/share/031d854ab1394071b3df27987e4083c7)
+
+3. [Dictionaries](https://www.loom.com/share/e093f940bec248ef8951121550a9eb3f)
 
 
 ### 🎯  This Week's Projects
@@ -44,7 +50,9 @@ Recommended Pace
 
 
 ### 📝 This Week's Notes
-Available EOD Monday
+[Jupyter Notebooks](https://github.com/momentum-pt-team-2/examples2/tree/main/python/intro-notebooks)
 
 ### 👾 This Week's Code Examples
-Available EOD Monday
+[Datetime](https://github.com/momentum-pt-team-2/examples/blob/main/python_concepts/dates_and_times.py)
+[Dictionaries](https://github.com/momentum-pt-team-2/examples/blob/main/python_concepts/dictionary_examples.py)
+
