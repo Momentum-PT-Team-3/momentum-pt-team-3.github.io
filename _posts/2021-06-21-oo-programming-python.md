@@ -6,15 +6,9 @@ tags: phase-1 python
 📝 TODO
 - Use this [Calendly link](https://calendly.com/rebecca-momentum/momentum-pt-1-1-w-rebecca) to book your 1-1 for the week
 
-## 🎥 This Week's Videos - Available Monday
+## 🎥 This Week's Videos
 #### _Each video has a 'Take the Quiz' button, which you should use to take the Quiz when you have finished._
-1. []()
-
-2. []()
-
-3. []()
-
-4. []()
+### *No additional videos from me this week. There are plenty in the tutorial Please take a quiz after each chunk of the tutorial (below).*
 
 
 ### 🎯  This Week's Projects
@@ -23,13 +17,13 @@ _This week, we will be following [Introduction to Object Oriented Programming](h
 * Please code along with the tutorial in VS Code and, once you have working code, experiment with changing it and seeing what happens. We will have additional practice exercises in workshop.* 
 
 Recommended Pace
-1. Introduction to OO and Creating Environment
+1. Introduction to OO and Creating Environment [Take Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdH4S6pwLTddBqsIIUg9s4cDHymc8uewYKUOklbJOF2DycmPw/viewform?usp=sf_link)
 
-2. Many Blobs & Blob Class and Modularity
+2. Many Blobs & Blob Class and Modularity [Take Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdH4S6pwLTddBqsIIUg9s4cDHymc8uewYKUOklbJOF2DycmPw/viewform?usp=sf_link)
 
-3. Inheritance & Decorators
+3. Inheritance & Decorators [Take Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdH4S6pwLTddBqsIIUg9s4cDHymc8uewYKUOklbJOF2DycmPw/viewform?usp=sf_link)
 
-4. Operator Overloading & Detecting Collisions
+4. Operator Overloading & Detecting Collisions [Take Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdH4S6pwLTddBqsIIUg9s4cDHymc8uewYKUOklbJOF2DycmPw/viewform?usp=sf_link)
 
 ### 🔖 Resources
 
@@ -50,10 +44,13 @@ Recommended Pace
 * [Code Wars](https://www.codewars.com/?language=python)
 
 
-### 📝 This Week's Notes - Available Mon
-[]()
+### 📝 This Week's Notes
+[Python Types and Operators](https://github.com/momentum-pt-team-2/notes/blob/main/python-types-operators.md)
+[Python Lists and Dicts](https://github.com/momentum-pt-team-2/notes/blob/main/python-lists-dicts.md
+[Python Classes](https://github.com/momentum-pt-team-2/notes/blob/main/python-object-oriented.md)
 
 ### 👾 This Week's Code Examples - Available Monday
+_This will be updated as we go this week._
 []()
-[]()
+
 
