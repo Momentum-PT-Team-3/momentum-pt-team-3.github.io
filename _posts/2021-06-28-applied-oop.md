@@ -42,6 +42,6 @@ _This week, we will be doing this assignment [OOP in Python - Wheel or PIG](http
 
 ### 👾 This Week's Code Examples - Available Monday
 _You are writing these this week!_
-[]()
+[Intro to Classes](https://replit.com/@RebeccaConley/IntroToClasses#main.py)
 
 

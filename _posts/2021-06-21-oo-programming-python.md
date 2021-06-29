@@ -51,6 +51,6 @@ Recommended Pace
 
 ### 👾 This Week's Code Examples - Available Monday
 _This will be updated as we go this week._
-[]()
+[Intro to Classes](https://replit.com/@RebeccaConley/IntroToClasses#main.py)
 
 
