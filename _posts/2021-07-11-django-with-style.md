@@ -38,6 +38,8 @@ _This project involves 1) starting a new Django project from scratch and 2) desi
 
 
 ### 📝 This Week's Notes
+* [Tour of a Django App](https://github.com/momentum-pt-team-2/notes/blob/main/django-getting-started.md)
+* []
 * [Semantic HTML](https://www.codecademy.com/learn/learn-html/modules/learn-semantic-html/cheatsheet)
 * [CSS Flexbox](https://youtu.be/aHUtMbJw8iA)
 * [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
