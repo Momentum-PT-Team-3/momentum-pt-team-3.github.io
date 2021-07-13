@@ -17,8 +17,7 @@ Optional: [Why is CSS So Weird?](https://youtu.be/aHUtMbJw8iA)
 - [Using a Stylesheet](https://youtu.be/VgBVKlpLqsE) 
 
 3. - [CSS Grid](https://youtu.be/KOvGeFUHAC0https://youtu.be/r9kT-jm136Q)
-- []()
-
+4. - [CSS Flexbox](https://www.youtube.com/watch?v=JJSoEo8JSnc)
 
 
 
@@ -41,7 +40,7 @@ _This project involves 1) starting a new Django project from scratch and 2) desi
 * [Tour of a Django App](https://github.com/momentum-pt-team-2/notes/blob/main/django-getting-started.md)
 * []
 * [Semantic HTML](https://www.codecademy.com/learn/learn-html/modules/learn-semantic-html/cheatsheet)
-* [CSS Flexbox](https://youtu.be/aHUtMbJw8iA)
+* [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ### 👾 This Week's Code Examples - 
