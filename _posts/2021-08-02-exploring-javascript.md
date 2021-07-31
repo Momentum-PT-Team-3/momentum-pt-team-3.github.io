@@ -19,8 +19,8 @@ _Please complete a [quiz form](https://docs.google.com/forms/d/e/1FAIpQLSdH4S6pw
 
 
 ### 🎯  This Week's Project
-[Python Review - optional](https://www.youtube.com/watch?v=jFCNu1-Xdsw)
-[The Modern JavaScript Turorial Chapters 1 & 2](https://javascript.info/)
+* [Python Review - optional](https://www.youtube.com/watch?v=jFCNu1-Xdsw)
+* [The Modern JavaScript Turorial Chapters 1 & 2](https://javascript.info/)
 
 ### Career Services
 * [Katie's Modules](https://docs.google.com/document/d/11GLQox2UwiLJwgLAYysLUSrkX5zPVxXt47IpRRqD7eY/edit?usp=sharing)
