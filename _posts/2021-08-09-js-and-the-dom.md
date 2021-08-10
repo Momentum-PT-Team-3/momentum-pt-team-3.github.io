@@ -18,7 +18,7 @@ _Please complete a [quiz form](https://docs.google.com/forms/d/e/1FAIpQLSdH4S6pw
 4. [Add Event Listener](https://youtu.be/F3odgpghXzY)
 
 * Optional - [Learn JavaScript Event Listeners in 18 Minutes](https://youtu.be/XF1_MlZ5l6M)
-\### 🎯  This Week's Project
+### 🎯  This Week's Project
 * [Digital Ocean Understanding the DOM](https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-document-object-model)
 - Complete all sections with exercises
 
