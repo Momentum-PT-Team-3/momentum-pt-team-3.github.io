@@ -3,7 +3,7 @@ layout: post
 title: 🕹 Applying JS 🕹
 tags: JavaScript
 ---
-#### 📆 NEW SCEDULE 📆 ####
+#### 📆 NEW SCHEDULE 📆 
 - Tuesdays 7-9pm
 - Wednesdays 7-9pm
 - Thursday 7-9pm
@@ -35,6 +35,10 @@ _Please complete a [quiz form](https://docs.google.com/forms/d/e/1FAIpQLSdH4S6pw
 
 ### 👾 This Week's Code Examples - 
 The projects are the examples this week.
+
+### Optional Practice
+* [Free Code Camp JS](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
+
 
 
 
