@@ -36,6 +36,7 @@ _Please complete a [quiz form](https://docs.google.com/forms/d/e/1FAIpQLSdH4S6pw
 - [Microsoft Version Control with Git](https://docs.microsoft.com/en-us/learn/paths/intro-to-vc-git/)
 - [Fetching Data with AJAX and Django](https://www.brennantymrak.com/articles/fetching-data-with-ajax-and-django.html) 
 - [JavaScript Fetch API](https://www.javascripttutorial.net/javascript-fetch-api/)
+- [Promises](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)
 
 ### 👾 This Week's Code Examples - 
 The project is our code example.
