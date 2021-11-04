@@ -4,7 +4,7 @@ permalink: /links/
 layout: default
 ---
 ## Career Services
-- [Links to Modules](https://docs.google.com/document/d/11GLQox2UwiLJwgLAYysLUSrkX5zPVxXt47IpRRqD7eY/edit?usp=sharing)
+- [Modules](https://docs.google.com/document/d/11GLQox2UwiLJwgLAYysLUSrkX5zPVxXt47IpRRqD7eY/edit?usp=sharing)
 
 
 ## Student Guidelines
@@ -16,14 +16,14 @@ layout: default
 
 ## Zoom
 
-- [Zoom classroom for PT Team Two Class & Co-working](https://us02web.zoom.us/j/86807252959?pwd=cDNPSVBac1E3c05PVzRZa3RYNGtPQT09)
+- [Zoom classroom for PT Team Three](https://us02web.zoom.us/j/86807252959?pwd=cDNPSVBac1E3c05PVzRZa3RYNGtPQT09)
 
 
 ## GitHub
 
-- [Class GitHub organization](https://github.com/momentum-pt-team-2/) -- all your assignment repos are located here
-  - [code examples from class](https://github.com/momentum-pt-team-2/examples)
-  - [notes/slides from class](https://github.com/momentum-pt-team-2/notes)
+- [Class GitHub organization](https://github.com/momentum-pt-team-3/) -- all your assignment repos are located here
+  - [code examples from class](https://github.com/momentum-pt-team-3/examples)
+  - [notes/slides from class](https://github.com/momentum-pt-team-3/notes)
 
 ## General References
 
@@ -31,6 +31,6 @@ layout: default
 <!-- - [Course outline & info]({% link course-outline.md %}) -->
 - [Asking technical questions: Your Brain's API](https://www.youtube.com/watch?v=hY14Er6JX2s)
 
-## Presentations
+<!-- ## Presentations
 
-- [End-of-phase technical presentations guidelines]({% link technical-presentations.md %})
+- [End-of-phase technical presentations guidelines]({% link technical-presentations.md %}) -->
