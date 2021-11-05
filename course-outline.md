@@ -6,77 +6,63 @@ layout: default
 
 # Course Outline
 
-For the entire 16 weeks, we are in session each day between 9:30 am - 5:30 pm, with a 1-hour break expected for lunch. You are expected to be online and available during these hours.
+For the entire 24 weeks, we are in session Tues-Fri 4:30 - 6:30pm. The classroom Zoom is always open for students who want to work together. Office hours will be listed weekly by the instructor. 
 
 ## Class & Assignments
 
-### Daily schedule
+### Weekly
+The class website will be updated for the week by EOD Friday. The site will show videos and exercises for the upcoming week and a suggested minimum pace. You are expected to fill out a video form for each video you watch. Earlier in the class, the exercises will be meant to do in one day. Later in the class, as the exercises become more complex, they may take multiple days. Due dates & times will be included with the assignments. Work is "turned in" when it is pushed to GitHub. 
 
-Class during Phases 1-2 meets twice a day Monday-Thursday, from 9:30 am to 11:30 am and again from 2:00 pm to 3:30 pm. In the interim, please take a lunch break and get started on the assignment for that day.
+### Benchmark Assignments
+Periodically you will have assignments meant to help you and the instructor assess your progress. You will be given feedback and will be asked to respond to that feedback. Completed benchmark assignments can go in your online portfolio with GitHub Pages. 
 
-Lab time continues after class from 3:30 pm to 5:30 pm Monday-Thursday and 9:30 am - 5:30 pm on Friday. Friday afternoons are reserved as optional class meeting time, if indicated by your instructor.
+## Getting Help
 
-Fridays also often include mandatory group meetings for the Campus Huddle/Speaker Series and Career Services Modules. You will receive calendar invitations for these meetings, which are usually scheduled in the 9:30-11:30 am range.
+Instructors are also available to meet with you on Zoom during office hours times, individually, in groups, or in the co-working Zoom.
 
-### Daily Assignments
+The Slack channels where you can get help from instructors, alumni, and classmates are:
+- #code-help (alumni & instructors)
+- #pt-team-three (our class) 
 
-Monday-Wednesday, you'll be given an assignment that you'll work on during lab time that day. Although our structured day officially ends at 5:30 pm, you will likely find that you need more time that evening to complete the assignment.
-
-Daily assignments are due before the start of class the following morning. Homework submission is through GitHub.
-
-Each day, class will begin with a review of homework from the day before. Come prepared to show your code and ask questions.
-
-### Weekend Assignments
-
-On Thursdays, you'll be given an assignment that will ask you to bring together everything you've learned that week. This assignment is expected to be more challeging and take longer to complete than your daily assignments. You can expect to work on this through the weekend.
-
-Weekend assignments are due on Monday morning before the start of class.
-
-## Getting in touch with Instructors
-
-Instructors are also available to meet with you on Zoom during lab times, individually, in groups, or in the co-working Zoom.
-
-You can reach out to us on Slack by using an `@` symbol followed by our name in the team channel (for instance, "@Amy Gori, when I run `git push origin main`, I get the following error...").
+You can reach out to us on Slack by using an `@` symbol followed by our name in the team channel (for instance, "@Rebecca Conley, when I run `git push origin main`, I get the following error...").
 
 ## Topics by phase
 
-Topics for the first 8 weeks include, but are not limited to, the following. Your instructors may adjust the curriculum to include additional topics.
+Phases last 8 weeks. The exact order and schedule is subject to adjustment by the instructor.
 
-### Phase 1: Front-end development
+### Phase 1: Python & Django
 
 - Version control with Git and using GitHub
 - HTML & CSS
 - Responsive web design
-- Programming basics and introduction to JavaScript
-- Using JavaScript in the browser
-- Forms on the web
-- Debugging in JavaScript
-- JavaScript objects
-- AJAX and using APIs
-- HTTP requests and methods
-
-### Phase 2: Back-end development
-
+- Programming basics and introduction to Python
 - Python basics
 - Lists and tuples; dictionaries; functions
 - List comprehensions
 - Objects, classes and inheritance
 - Working with files
 - Django basics
-- Django models and migrations
+- Django models and migrations & databases
 - Django views
 - Templates & context variables
 - Users and authorization
 - Forms in Django
-- Using JavaScript & AJAX with Django
 - Debugging in Django
 
-### Phase 3: Advanced Front-end or Advanced Back-end
 
-In this phase, you have a choice to learn more in-depth front-end or back-end topics. If you choose front-end, you'll be learning to build applications using React, a JavaScript framework. Back-end students will learn to build APIs using Django REST Framework.
+### Phase 2: Programming for the Web with JavaScript
 
-You'll be asked to do more independent work alongside regular classroom meetings with your instructor as you learn to build more complex projects.
+- Intro to JavaScript and comparison with Python
+- Using JavaScript in the browser
+- Event handling in JavaScript
+- Manipulating the DOM with JavaScript
+- Forms on the web
+- Debugging in JavaScript
+- JavaScript objects
+- AJAX and using APIs
+- HTTP requests and methods
+- Using JavaScript & AJAX with Django
 
-### Phase 4: Agile Development
+### Phase 3: Agile Development
 
-Students work on small teams to design and build a complete, real-world software product using the practices of professional software developers. You'll be working independently under the close supervision of your instructor to meet tight deadlines. To graduate, you will present your project to members of the local tech community.
+Students work on small teams to design and build a complete, real-world software product using the practices of professional software developers. You'll be working independently under the close supervision of your instructor to meet tight deadlines. You will learn and implement at least one new technology that we didn't learn in class. To graduate, you will present your project to members of the local tech community.
