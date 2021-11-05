@@ -3,6 +3,9 @@ title: Important Links
 permalink: /links/
 layout: default
 ---
+## Course Outline 
+- [Course Outline](course-outline.md)
+
 ## Career Services
 - [Modules](https://docs.google.com/document/d/11GLQox2UwiLJwgLAYysLUSrkX5zPVxXt47IpRRqD7eY/edit?usp=sharing)
 
