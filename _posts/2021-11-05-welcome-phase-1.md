@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to your first day of class
+title: First Week of Class
 tags: phase-1 orientation command-line 
 ---
 
