@@ -16,7 +16,8 @@ Make sure your computer is [all set up and ready to go](https://www.notion.so/mo
 
 ### Python Installation
 
-[Instructions](https://www.notion.so/momentumlearn/Computer-Set-up-Instructions-42f17179ea9c4c769833cf9dc7890e20)
+[Instructions](https://www.notion.so/momentumlearn/Setting-up-your-Python-Development-Environment-91c5006b5a504844ad4e6abf5d209928)
+- if you encounter problems in this process, please post in Slack
 
 ### Optional Tools
 
