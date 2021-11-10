@@ -39,9 +39,9 @@ Make sure your computer is [all set up and ready to go](https://www.notion.so/mo
   - [ ] Submit your assignment [here](https://forms.gle/rnBMWN2e9dHVjZfC7)
 
 
-## 🦉 Code Examples and Notes 
+## 🦉 Notes
 
-- [command line notes](https://github.com/momentum-pt-team-3/notes/blob/main/command-line.md)
+- [command line notes](https://github.com/momentumlearn/curriculum-notes/blob/main/command-line.md)
 
 
 
