@@ -28,7 +28,11 @@ tags: phase-1 python
         1. Click the link for the assignment, which will create a personal fork of the assignment for you.
         2. In your terminal, go to the repository where you keep your assignment.
         3. Run `git clone <url from your personal repo created in 1>`
-        4. When you have written your code, do `git add .`, `git commit` `git push` to submit, and I will have access to it on GitHub.
+        4. When you have written your code, do 
+        `git add .` 
+        `git commit` 
+        `git push` 
+        to submit, and I will have access to it on GitHub.
 
 2. Comments and Strings (due Wednesday, 11/17/21)
   - Watch
@@ -43,11 +47,11 @@ tags: phase-1 python
 
 3. Conditionals (due Thursday, 11/18/21)
  - Watch
-    - [MS Conditional Logic](https://youtu.be/5pPKYWqkoek)
-    - [MS Demo: Conditional Logic](https://youtu.be/zqVmqtTLmgw)
-    - [MS Multiple Conditions](https://youtu.be/J9luo4cODzM)
-    - [MS Demo: Multiple Conditions](https://youtu.be/J9luo4cODzM)
-    [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)
+      - [MS Conditional Logic](https://youtu.be/5pPKYWqkoek)
+      - [MS Demo: Conditional Logic](https://youtu.be/zqVmqtTLmgw)
+      - [MS Multiple Conditions](https://youtu.be/J9luo4cODzM)
+      - [MS Demo: Multiple Conditions](https://youtu.be/J9luo4cODzM)
+      [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)
 
  - Complete items 1-4 in [Problem Set 2](https://classroom.github.com/a/ACYkEsBy)
     *Same instructions as for Problem Set 1*
