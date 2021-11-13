@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Classroom site for Momentum PT Team 2.
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://momentum-pt-team-3.github.io' # the base hostname & protocol for your site, e.g. http://example.com
-repo_url: 'https://github.com/momentum-pt-team-2/momentum-pt-team-3.github.io'
+repo_url: 'https://github.com/momentum-pt-team-3/momentum-pt-team-3.github.io'
 github_username: momentum-pt-team-2
 paginate: 1
 future: true
