@@ -58,11 +58,11 @@ tags: phase-1 python
 
 4. Collections & Loops (due Friday, 11/19/21)
  - Watch
-    - [MS Collections](https://youtu.be/beA8IsY3mQs)
-    - [MS Demo: Collections](https://youtu.be/4PaSlXNjawM)
-    - [MS Loops](https://youtu.be/LrOAl8vUFHY)
-    - [MS Demo Loops](https://youtu.be/rAvD-6MpTw4)
-    [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)
+      - [MS Collections](https://youtu.be/beA8IsY3mQs)
+      - [MS Demo: Collections](https://youtu.be/4PaSlXNjawM)
+      - [MS Loops](https://youtu.be/LrOAl8vUFHY)
+      - [MS Demo Loops](https://youtu.be/rAvD-6MpTw4)
+      [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)
 
  - Complete items 5-7 in Problem Set 2
     *Same instructions as for Problem Set 1*
