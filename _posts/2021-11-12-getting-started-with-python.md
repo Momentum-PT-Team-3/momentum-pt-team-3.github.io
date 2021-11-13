@@ -22,7 +22,7 @@ tags: phase-1 python
         - [MS Configuring VS Code for Python](https://youtu.be/EU8eayHWoZg)
         - [MS Using Print](https://youtu.be/FhoASwgvZHk)
         - [MS Hello World](https://youtu.be/wWwr0tDSqnE)
-        [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)
+        - [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)
 
   - Complete items 1-5 in [Python Problem Set 1](https://classroom.github.com/a/FCrhDObm)
         1. Click the link for the assignment, which will create a personal fork of the assignment for you.
@@ -41,7 +41,7 @@ tags: phase-1 python
         - [MS Demo: Strings](https://youtu.be/zv3cVJHCqXA)
         - [MS Formatting Strings](https://youtu.be/bQQqxysLIGE)
         - [MS Demo: Formatting Strings](https://youtu.be/E850-MF22P0)
-        [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)
+        - [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)
 
   - Complete items 6-11 in Python Problem Set 1
 
@@ -49,9 +49,9 @@ tags: phase-1 python
  - Watch
       - [MS Conditional Logic](https://youtu.be/5pPKYWqkoek)
       - [MS Demo: Conditional Logic](https://youtu.be/zqVmqtTLmgw)
-      - [MS Multiple Conditions](https://youtu.be/J9luo4cODzM)
+      - [MS Multiple Conditions](https://youtu.be/oYaGJBMoXok)
       - [MS Demo: Multiple Conditions](https://youtu.be/J9luo4cODzM)
-      [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)
+      - [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)
 
  - Complete items 1-4 in [Problem Set 2](https://classroom.github.com/a/ACYkEsBy)
     *Same instructions as for Problem Set 1*
@@ -62,7 +62,7 @@ tags: phase-1 python
       - [MS Demo: Collections](https://youtu.be/4PaSlXNjawM)
       - [MS Loops](https://youtu.be/LrOAl8vUFHY)
       - [MS Demo Loops](https://youtu.be/rAvD-6MpTw4)
-      [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)
+      - [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)
 
  - Complete items 5-7 in Problem Set 2
     *Same instructions as for Problem Set 1*
