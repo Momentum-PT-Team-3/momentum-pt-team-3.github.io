@@ -30,8 +30,8 @@ tags: phase-1 python
             - In your terminal, go to the repository where you keep your assignment.    
             - Run `git clone <url from your personal repo created in 1>`  
             - When you have written your code, do  
-                  - `git add .`  
-                  - `git commit` 
+                  - `git add .`    
+                  - `git commit`  
                   - `git push` 
             to submit, and I will have access to it on GitHub.
 
