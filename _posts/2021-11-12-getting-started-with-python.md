@@ -17,7 +17,7 @@ tags: phase-1 python
 
 ## 🔖 Assignments for the Upcoming Week
 1. Hello World (due Tuesday, 11/16/21)
-      - Watch 
+      - Watch
             - [MS Introducing Python](https://youtu.be/7XOhibxgBlQ)
             - [MS Configuring VS Code for Python](https://youtu.be/EU8eayHWoZg)
             - [MS Using Print](https://youtu.be/FhoASwgvZHk)
@@ -26,11 +26,11 @@ tags: phase-1 python
       - [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)
 
       - Complete items 1-5 in [Python Problem Set 1](https://classroom.github.com/a/FCrhDObm)
-            - Click the link for the assignment, which will create a personal fork of the assignment for you.
-            - In your terminal, go to the repository where you keep your assignment.
-            - Run `git clone <url from your personal repo created in 1>`
-            - When you have written your code, do 
-                  - `git add .` 
+            - Click the link for the assignment, which will create a personal fork of the assignment for you.    
+            - In your terminal, go to the repository where you keep your assignment.    
+            - Run `git clone <url from your personal repo created in 1>`  
+            - When you have written your code, do  
+                  - `git add .`  
                   - `git commit` 
                   - `git push` 
             to submit, and I will have access to it on GitHub.
