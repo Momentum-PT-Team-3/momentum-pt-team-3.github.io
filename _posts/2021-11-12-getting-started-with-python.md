@@ -26,10 +26,10 @@ tags: phase-1 python
       - [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)
 
       - Complete items 1-5 in [Python Problem Set 1](https://classroom.github.com/a/FCrhDObm)
-            i. Click the link for the assignment, which will create a personal fork of the assignment for you.
-            i. In your terminal, go to the repository where you keep your assignment.
-            i. Run `git clone <url from your personal repo created in 1>`
-            i. When you have written your code, do 
+            - Click the link for the assignment, which will create a personal fork of the assignment for you.
+            - In your terminal, go to the repository where you keep your assignment.
+            - Run `git clone <url from your personal repo created in 1>`
+            - When you have written your code, do 
                   - `git add .` 
                   - `git commit` 
                   - `git push` 
