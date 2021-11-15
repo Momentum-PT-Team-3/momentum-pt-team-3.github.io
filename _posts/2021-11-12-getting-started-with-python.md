@@ -32,7 +32,7 @@ tags: phase-1 python
             - When you have written your code, do  
                   - `git add .`    
                   - `git commit`  
-                  - `git push` 
+                  - `git push`  
             to submit, and I will have access to it on GitHub.
 
 1. Comments and Strings (due Wednesday, 11/17/21)
