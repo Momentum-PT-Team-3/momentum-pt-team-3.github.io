@@ -16,12 +16,13 @@ tags: phase-1 python
 - Loops
 
 ## 🔖 Assignments for the Upcoming Week
-1.Hello World (due Tuesday, 11/16/21)
+1. Hello World (due Tuesday, 11/16/21)
       - Watch 
-            - [MS Introducing Python](https://youtu.be/7XOhibxgBlQ)
-            - [MS Configuring VS Code for Python](https://youtu.be/EU8eayHWoZg)
-            - [MS Using Print](https://youtu.be/FhoASwgvZHk)
-            - [MS Hello World](https://youtu.be/wWwr0tDSqnE)
+            * [MS Introducing Python](https://youtu.be/7XOhibxgBlQ)
+            * [MS Configuring VS Code for Python](https://youtu.be/EU8eayHWoZg)
+            * [MS Using Print](https://youtu.be/FhoASwgvZHk)
+            * [MS Hello World](https://youtu.be/wWwr0tDSqnE)
+
       - [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)
 
       - Complete items 1-5 in [Python Problem Set 1](https://classroom.github.com/a/FCrhDObm)
@@ -34,18 +35,18 @@ tags: phase-1 python
                   * `git push` 
             to submit, and I will have access to it on GitHub.
 
-2.Comments and Strings (due Wednesday, 11/17/21)
+1. Comments and Strings (due Wednesday, 11/17/21)
       - Watch
-            - [MS Comments](https://youtu.be/kEuVvUc1Zec)
-            - [MS Strings](https://youtu.be/tSebLz1hNpA)
-            - [MS Demo: Strings](https://youtu.be/zv3cVJHCqXA)
-            - [MS Formatting Strings](https://youtu.be/bQQqxysLIGE)
-            - [MS Demo: Formatting Strings](https://youtu.be/E850-MF22P0)
+            * [MS Comments](https://youtu.be/kEuVvUc1Zec)
+            * [MS Strings](https://youtu.be/tSebLz1hNpA)
+            * [MS Demo: Strings](https://youtu.be/zv3cVJHCqXA)
+            * [MS Formatting Strings](https://youtu.be/bQQqxysLIGE)
+            * [MS Demo: Formatting Strings](https://youtu.be/E850-MF22P0)
       - [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)
 
       - Complete items 6-11 in Python Problem Set 1
 
-3.Conditionals (due Thursday, 11/18/21)
+1. Conditionals (due Thursday, 11/18/21)
       - Watch
             - [MS Conditional Logic](https://youtu.be/5pPKYWqkoek)
             - [MS Demo: Conditional Logic](https://youtu.be/zqVmqtTLmgw)
@@ -56,7 +57,7 @@ tags: phase-1 python
       - Complete items 1-4 in [Problem Set 2](https://classroom.github.com/a/ACYkEsBy)
             *Same instructions as for Problem Set 1*
 
-4.Collections & Loops (due Friday, 11/19/21)
+1. Collections & Loops (due Friday, 11/19/21)
       - Watch
             - [MS Collections](https://youtu.be/beA8IsY3mQs)
             - [MS Demo: Collections](https://youtu.be/4PaSlXNjawM)
