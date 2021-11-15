@@ -18,10 +18,10 @@ tags: phase-1 python
 ## 🔖 Assignments for the Upcoming Week
 1. Hello World (due Tuesday, 11/16/21)
       - Watch 
-            * [MS Introducing Python](https://youtu.be/7XOhibxgBlQ)
-            * [MS Configuring VS Code for Python](https://youtu.be/EU8eayHWoZg)
-            * [MS Using Print](https://youtu.be/FhoASwgvZHk)
-            * [MS Hello World](https://youtu.be/wWwr0tDSqnE)
+            - [MS Introducing Python](https://youtu.be/7XOhibxgBlQ)
+            - [MS Configuring VS Code for Python](https://youtu.be/EU8eayHWoZg)
+            - [MS Using Print](https://youtu.be/FhoASwgvZHk)
+            - [MS Hello World](https://youtu.be/wWwr0tDSqnE)
 
       - [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)
 
@@ -37,11 +37,11 @@ tags: phase-1 python
 
 1. Comments and Strings (due Wednesday, 11/17/21)
       - Watch
-            * [MS Comments](https://youtu.be/kEuVvUc1Zec)
-            * [MS Strings](https://youtu.be/tSebLz1hNpA)
-            * [MS Demo: Strings](https://youtu.be/zv3cVJHCqXA)
-            * [MS Formatting Strings](https://youtu.be/bQQqxysLIGE)
-            * [MS Demo: Formatting Strings](https://youtu.be/E850-MF22P0)
+            - [MS Comments](https://youtu.be/kEuVvUc1Zec)
+            - [MS Strings](https://youtu.be/tSebLz1hNpA)
+            - [MS Demo: Strings](https://youtu.be/zv3cVJHCqXA)
+            - [MS Formatting Strings](https://youtu.be/bQQqxysLIGE)
+            - [MS Demo: Formatting Strings](https://youtu.be/E850-MF22P0)
       - [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)
 
       - Complete items 6-11 in Python Problem Set 1
