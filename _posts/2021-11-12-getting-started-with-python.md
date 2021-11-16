@@ -78,4 +78,7 @@ tags: phase-1 python
 - These notebooks are a written resource for the Python concepts we will learn, like an interactive textbook.
 - From inside the directory in the terminal, run `jupyter notebook` to open the notebooks.
 
+#### Quick Reference  
+- [notes](https://github.com/Momentum-PT-Team-3/notes/blob/main/intro-python.md)
+
 
