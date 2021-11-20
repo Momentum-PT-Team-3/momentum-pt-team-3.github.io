@@ -26,6 +26,6 @@ Here are several options for practice this week. Please choose the type and amou
 
 ## Optional Office Hours 🏢 
 - Tuesday, 11/23 4:30 - 6:30pm  
-- Wednesday, 11/23 4:30 - 6:30pm  
+- Wednesday, 11/24 4:30 - 6:30pm  
 
  
