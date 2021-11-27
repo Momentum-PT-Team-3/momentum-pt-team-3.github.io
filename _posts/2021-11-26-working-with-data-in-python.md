@@ -23,25 +23,25 @@ tags: phase-1 python
 1. Lists (due Tuesday, 11/30/21)
       - Watch
            - [How To Use Lists in Python](https://www.youtube.com/watch?v=9OeznAkyQz4)
-      - [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)
+      - [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)  
 
 
 1. Dictionaries (due Wednesday, 12/1/21)
       - Watch
-            - [Python Dictionaries](https://youtu.be/C91P1wqzg9E)
-      - [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)
+            - [Python Dictionaries](https://youtu.be/C91P1wqzg9E)  
+      - [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)  
 
 
 1. Collections & Loops (due Thursday, 12/2/21)
       - Watch
-            - [For Loops](https://youtu.be/9LgyKiq_hU0)
-            - [While Loops](https://youtu.be/D0Nb2Fs3Q8c)
-      - [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)
+            - [For Loops](https://youtu.be/9LgyKiq_hU0)  
+            - [While Loops](https://youtu.be/D0Nb2Fs3Q8c)  
+      - [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)  
 
 1. Game Logic (due Friday, 12/3/21)
-      - _Optional_ Watch
-            - [Tic Tac Toe Game](https://www.youtube.com/watch?v=8eHpXLDhi6w)
-      - [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)
+      - _Optional_ Watch  
+            - [Tic Tac Toe Game](https://www.youtube.com/watch?v=8eHpXLDhi6w)  
+      - [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)  
 
 
 ## 🦉 Notes
