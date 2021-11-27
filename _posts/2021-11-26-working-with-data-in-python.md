@@ -21,7 +21,7 @@ tags: phase-1 python
 * Each class, you will fill out a short entrance ticket to indicate where you are, and you will be grouped with people in a similar place on the assignment. *  
 
 1. Lists (due Tuesday, 11/30/21)
-      - Watch
+      - Watch  
            - [How To Use Lists in Python](https://www.youtube.com/watch?v=9OeznAkyQz4)
       - [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)  
 
