@@ -46,10 +46,10 @@ tags: phase-1 python
 
 ## 🦉 Notes
 
-### 🐍 Python Notebooks: The Prequel 🐍
+### 🐍 🆕 Python Notebooks: The Prequel 🆕 🐍
 - Consolidated summary of concepts described in detail in the Python Notebooks has been added to the class [notes repository](https://github.com/Momentum-PT-Team-3/notes/blob/main/python-notebooks-prequel.md).
 
-###  🐍📒 Python Notebooks 🐍📒
+###  🐍 📒 Python Notebooks 📒 🐍
 - Make a directory to hold your Python Notebooks
 - Clone the repository [here](https://github.com/Momentum-PT-Team-3/python-notebooks) into that directory:
       * ```git clone <url of notebooks> .```
