@@ -51,8 +51,8 @@ tags: phase-1 python
 
 ###  🐍 📒 Python Notebooks 📒 🐍
 - Make a directory to hold your Python Notebooks
-- Clone the repository [here](https://github.com/Momentum-PT-Team-3/python-notebooks) into that directory:
-      * ```git clone <url of notebooks> .```
+- Clone the repository [here](https://github.com/Momentum-PT-Team-3/python-notebooks) into that directory:  
+      ```git clone <url of notebooks> .```
 - These notebooks are a written resource for the Python concepts we will learn, like an interactive textbook.
 - From inside the directory in the terminal, run `jupyter notebook` to open the notebooks.
 
