@@ -1,49 +1,31 @@
----
+1---
 layout: post
-title: Working With Data Python
+title: Object Oriented Programming (OOP) in Python
 tags: phase-1 python
 ---
 
 ## 🎯 This week's topics
-- Lists
-- Tuples
-- Dictionaries
-- Loops
-- Conditionals
-- Functions
+- OOP
+- classes 
+- instances
+- methods
 
 
 ## 🔖 Assignments for the Upcoming Week
-- We will be working on the [Mystery Word](https://classroom.github.com/a/ZEb8R8Ls) assignment all week. The Suggested Approach section breaks the assignment down into smaller chunks, but you are not obligated to approach the assignment that way.
 
-- Once you have accepted the assignment, run `git clone <url>` and then `cd` into the directory to work on it locally.
-
-* Each class, you will fill out a short entrance ticket to indicate where you are, and you will be grouped with people in a similar place on the assignment. *  
-
-1. Lists (due Tuesday, 11/30/21)
+1. Introduction to OOP in Python (due Tuesday, 12/7/21)
       - Watch  
-           - [How To Use Lists in Python](https://www.youtube.com/watch?v=9OeznAkyQz4)
-      - [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)  
+           - [Real Python What is OOP?](https://www.youtube.com/watch?v=umq5JN11peA)
+      - In place of video form, read and complete the exercises in [Intro to OOP with Python](https://docs.microsoft.com/en-us/learn/modules/python-object-oriented-programming/)
 
 
-1. Dictionaries (due Wednesday, 12/1/21)
-      - Watch
-            - [Python Dictionaries](https://youtu.be/C91P1wqzg9E)  
-      - [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)  
+2. For Wed - Fri homework and in-class:
+      We will be working on the [Blackjack assignment](https://classroom.github.com/a/YjSaXc_2) each day in self-paced groups, as we did with Mystery Word.
 
+3. Optional Supplement:
+      If you want more directed practice writing Object Oriented Python Follow the OOP game-building tutorial (written and video) that starts [here](https://pythonprogramming.net/object-oriented-programming-introduction-intermediate-python-tutorial/). After each module, you click the yellow button at the bottom of the page to get to the next one. Try to complete at least 3 modules. .
 
-1. Collections & Loops (due Thursday, 12/2/21)
-      - Watch
-            - [For Loops](https://youtu.be/9LgyKiq_hU0)  
-            - [While Loops](https://youtu.be/D0Nb2Fs3Q8c)  
-      - [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)  
-
-1. Game Logic (due Friday, 12/3/21)
-      - _Optional_ Watch  
-            - [Tic Tac Toe Game](https://www.youtube.com/watch?v=8eHpXLDhi6w)  
-      - [Complete Form](https://forms.gle/MHkQnbX35i2KVjsq9)  
-
-
+      
 ## 🦉 Notes
 
 ### 🐍 🆕 Python Notebooks: The Prequel 🆕 🐍
