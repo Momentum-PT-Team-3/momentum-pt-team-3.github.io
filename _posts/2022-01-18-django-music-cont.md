@@ -18,18 +18,18 @@ down into bullet points, and its helpful to tackle those one at a time, in order
 
 ### Checklist of Assignment Specs
 Your app is complete when a user can:
-- [ ] See a list of all albums on the homepage
-- [ ] Create a new album
-- [ ] See a detail page for one existing album
-- [ ] Edit an existing album
-- [ ] Delete an existing album
-- [ ] See an appealing, understandable layout with some style (css)
+- [ ] See a list of all albums on the homepage  
+- [ ] Create a new album  
+- [ ] See a detail page for one existing album  
+- [ ] Edit an existing album  
+- [ ] Delete an existing album  
+- [ ] See an appealing, understandable layout with some style (css)  
 
 🌶 Spicy Options (if above checklist is complete)
-- [ ] Add an Artist model and create a foreign key on the Album model to associate the two.
-- [ ] Show the Artist and their other albums on the album detail page, with links to those album detail pages.
-- [ ] Create an way to mark an album as a favorite. Favorited albums are displayed with a star next to them (how you choose to show this is up to you). A user should be able to click on the star, or a link or button, to mark the album as a favorite.
-- [ ] Add an option to sort all albums on the list page by title, year, or artist.
+- [ ] Add an Artist model and create a foreign key on the Album model to associate the two.  
+- [ ] Show the Artist and their other albums on the album detail page, with links to those album detail pages.  
+- [ ] Create an way to mark an album as a favorite. Favorited albums are displayed with a star next to them (how you choose to show this is up to you). A user should be able to click on the star, or a link or button, to mark the album as a favorite.  
+- [ ] Add an option to sort all albums on the list page by title, year, or artist.  
 
 *References*
 
