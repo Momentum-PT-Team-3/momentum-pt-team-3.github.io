@@ -10,7 +10,7 @@ tags: phase-1 python
     - model relationships
     - registration
 
-## 🔖 Assignment for this week and Next
+## 🔖 Assignment for last week and this week
 
 In pairs, continue completing the [Django Music](https://classroom.github.com/a/ueLCjCk0) assignment, in 
 which you will build a web application in the spirit of iTunes or Spotify. Note that the specs are broken
