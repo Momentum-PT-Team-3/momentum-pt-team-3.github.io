@@ -1,4 +1,4 @@
-1---
+---
 layout: post
 title: Introduction to Django
 tags: phase-1 python
