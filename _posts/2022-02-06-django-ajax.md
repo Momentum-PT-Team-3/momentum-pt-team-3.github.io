@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction to Django
+title: JavaScript and Django
 tags: python javascript
 ---
 
@@ -22,9 +22,9 @@ Continue with [Django Flash Cards](https://classroom.github.com/a/V43gt1Co) focu
 _From Class_
 - [Adding JS to your app](https://us02web.zoom.us/rec/share/SiMARqEPiXrMwVgaX0_V_kg7qCh_FoqO9HTVin3vQSGZdcYChgVmBq9ddXyh2l-d.SC09EUWeCDVGh9mb)
 Access Passcode: 2UA*4d?7
-- [Django Walkthrough] (https://us02web.zoom.us/rec/share/Sgz-WaLqT6K_53VEUFTQ3Ot1J7E2MEvMsQbpippsyuJ-bT2GZCbBKwZTVKn1DSzB.rpXNAFKfxhnupo1D?startTime=1643838100000) 
+- [Django Walkthrough](https://us02web.zoom.us/rec/share/Sgz-WaLqT6K_53VEUFTQ3Ot1J7E2MEvMsQbpippsyuJ-bT2GZCbBKwZTVKn1DSzB.rpXNAFKfxhnupo1D?startTime=1643838100000)
 Passcode: 4%S!pSC+
-- [Fetch and API’s] (https://us02web.zoom.us/rec/share/Sgz-WaLqT6K_53VEUFTQ3Ot1J7E2MEvMsQbpippsyuJ-bT2GZCbBKwZTVKn1DSzB.rpXNAFKfxhnupo1D?startTime=1643841775000) 
+- [Fetch and API’s](https://us02web.zoom.us/rec/share/Sgz-WaLqT6K_53VEUFTQ3Ot1J7E2MEvMsQbpippsyuJ-bT2GZCbBKwZTVKn1DSzB.rpXNAFKfxhnupo1D?startTime=1643841775000) 
 Passcode: 4%S!pSC+
 - [API Call and Response with Fetch](https://us02web.zoom.us/rec/share/T-WlZaHmQ8C5ta46Gf20idA0qpg0ZVQsl1fnokBoZaVdWpAI4BGORKYVpcAQBSIR.KXlmL8WL9mDT33fZ)
 Access Passcode: .W!0RM5q
@@ -51,7 +51,4 @@ _Others_
 ## 💾 Code Examples
 - [Dom Manipulation CodePen](https://codepen.io/da5id/pen/jaMyxw)
 - [Django Studio Example](https://github.com/Momentum-PT-Team-3/in-class-exercises-and-examples/tree/main/django-studio-example)
-
-
-
 
