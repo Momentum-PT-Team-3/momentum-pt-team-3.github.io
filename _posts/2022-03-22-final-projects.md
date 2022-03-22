@@ -14,6 +14,11 @@
 # Check-in Schedule Expectations
 These are guidelines, not rules, so students may not be precisely hitting these deadlines. That is ok. This is meant to give the instructor and students a sense for where students should be at each point.
 
+### How to use your time with Kelly:
+- Update on what you have done
+- Figure out what to do next
+- Address any blockers
+
 ## Week 1 - March 21-25
 - Clear product description/vision with wireframes
 - Architecture decided 
